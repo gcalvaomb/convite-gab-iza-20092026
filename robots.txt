@@ -1,0 +1,3 @@
+# Convite particular: nenhum buscador deve indexar nada aqui.
+User-agent: *
+Disallow: /
